@@ -11,5 +11,9 @@ public class First {
         // I want to create a history
 
         // The text does not matter
+
+        // third commit
+
+        // more lines
     }
 }
